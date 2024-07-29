@@ -3,8 +3,10 @@
 🐱‍🏍 I’m currently working on Developing a Frontend Software Development career.</br>
 🌷 I’m currently learning JavaScript.</br>
 💻 You can ask me about, Web development, responsive design, and digital marketing strategies.</br>
-📧 You can reach me via my linkedIn here: https://www.linkedin.com/in/kauthar-waggie-865a03200/</br>
+📧 You can reach me via my linkedIn here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kauthar-waggie-865a03200/)</br>
 🎠 Fun fact: I started my design journey by creating custom birthday invitations and business propisitions but always wandered about what goes on behind every app and game designed.</br>
+
+![working gif](https://github.com/user-attachments/assets/065e62c8-7e17-44dd-92c9-83243defbef7)
 
 <b> CODING JOURNEY</b> </br>
 🌼My journey into frontend development began with a mix of excitement and challenge. As a beginner, I struggled with understanding the nuances of HTML, CSS, and JavaScript, often feeling overwhelmed by the vast array of concepts and best practices. Debugging and fixing layout issues were particularly daunting, and I spent countless hours troubleshooting and experimenting with different solutions. Despite these hurdles, each small victory—whether it was making a responsive design work or creating an interactive feature—fueled my passion and determination.🤞</br>

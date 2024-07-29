@@ -24,5 +24,6 @@ My goal is to become a proficient full stack developer, combining my skills in b
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauthar-waggie&theme=panda&show_icons=true)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/https://www.linkedin.com/in/kauthar-waggie-865a03200/)](https://www.linkedin.com/in/kauthar-waggie-865a03200/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kautharwaggie1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([https://codepen.io/https://codepen.io/Kauthar-Waggie](https://codepen.io/your-work) 

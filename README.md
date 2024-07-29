@@ -4,8 +4,8 @@ I'm 23 years old from Cape Town and this is a bit of insight about me. </br>
 🐱‍🏍 I’m currently working on Developing a Frontend Software Development career.</br>
 🌷 I’m currently learning JavaScript.</br>
 💻 You can ask me about, Web development, responsive design, and digital marketing strategies.</br>
-📧 You can reach me via my linkedIn here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kauthar-waggie-865a03200/)</br>
-🎠 Fun fact: I started my design journey by creating custom birthday invitations and business propisitions but always wandered about what goes on behind every app and game designed.</br>
+📧 You can reach me via my linkedIn here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/https://www.linkedin.com/in/kauthar-waggie-865a03200/)])</br>
+🎠 Fun fact: I started my design journey by creating custom birthday invitations and business propositions but always wandered about what goes on behind every app and game designed.</br>
 
 ![working gif](https://github.com/user-attachments/assets/065e62c8-7e17-44dd-92c9-83243defbef7)
 
@@ -25,4 +25,4 @@ My goal is to become a proficient full stack developer, combining my skills in b
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauthar-waggie&theme=panda&show_icons=true)
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kauthar-waggie-865a03200/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kautharwaggie1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Kauthar-Waggie) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/https://www.linkedin.com/in/kauthar-waggie-865a03200/)](https://www.linkedin.com/in/kauthar-waggie-865a03200/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kautharwaggie1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([https://codepen.io/https://codepen.io/Kauthar-Waggie](https://codepen.io/your-work) 

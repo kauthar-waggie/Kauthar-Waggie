@@ -1,5 +1,6 @@
 ## Hi, I'm Kauthar Waggie (✿◠‿◠)
 
+I'm 23 years old from Cape Town and this is a bit of insight about me. </br>
 🐱‍🏍 I’m currently working on Developing a Frontend Software Development career.</br>
 🌷 I’m currently learning JavaScript.</br>
 💻 You can ask me about, Web development, responsive design, and digital marketing strategies.</br>
